@@ -1,4 +1,4 @@
-# Sankar Naik Banavathu | Personal portfolio
+# Aditya Rao | Personal portfolio
 A local, server-rendered FastAPI portfolio with Jinja2 inheritance, technology filters and a contact form.
 
 ## Run locally
